@@ -1,0 +1,1 @@
+//các biểu thức mô tả đúng là:$O(n^3)$, $O(n\sqrt{n})$ và $\Omega(\log n)$

@@ -1,0 +1,1 @@
+// đoạn code dưới đây in từ hello ~ 50n2
